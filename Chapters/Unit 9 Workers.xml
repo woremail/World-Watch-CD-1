@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Workers</B>]]></text>
+<text><![CDATA[Rafay needs to get different types of work done. Choose the correct worker to help him.]]></text>
+
+<Q1><![CDATA[Rafay needs to build a house, who should he call?]]></Q1>
+<Q1><![CDATA[An electric socket needs to be fixed. Who should Rafay call?]]></Q1>
+<Q1><![CDATA[The kitchen pipe is leaking, who should Rafay call?]]></Q1>
+<Q1><![CDATA[If Rafay is ill, who should he call?]]></Q1>
+<Q1><![CDATA[If Rafay cannot work out a sum, who should he ask?]]></Q1>
+
+<Optn1><![CDATA[a teacher]]></Optn1>
+<Optn1><![CDATA[a builder]]></Optn1>
+<Optn1><![CDATA[a farmer]]></Optn1>
+<!-- <Optn1><![CDATA[a milkman]]></Optn1> -->
+<Optn1><![CDATA[a carpenter]]></Optn1>
+<Optn1><![CDATA[an electrician]]></Optn1>
+<Optn1><![CDATA[a plumber]]></Optn1>
+<Optn1><![CDATA[a doctor]]></Optn1>
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct. Well done.]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too!]]></feedback>
+<feedback><![CDATA[You can do better!]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[This is the correct answer.]]></feedback>
+
+<num><![CDATA[1]]></num>
+<num><![CDATA[2]]></num>
+<num><![CDATA[3]]></num>
+<num><![CDATA[4]]></num>
+<num><![CDATA[5]]></num>
+
+
+</data>
+</framexml>

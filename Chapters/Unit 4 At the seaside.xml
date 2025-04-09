@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+<!-- <text><![CDATA[Are these actions are right or wrong? Click the correct answer.]]></text> -->
+<!-- 1M2 -->
+<text><![CDATA[<b>At the seaside</b>]]></text>
+<text><![CDATA[Are these actions right or wrong? Click the correct answer.]]></text>
+
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct. Well done.]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct!]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+
+</data>
+</framexml>

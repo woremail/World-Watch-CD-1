@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Our Environment</B>]]></text>
+<text><![CDATA[Help make the park beautiful again. Click the tool and then click the area where it can be used.]]></text>
+
+<option><![CDATA[Broom]]></option>
+<option><![CDATA[Lawnmower]]></option>
+<option><![CDATA[Shovel]]></option>
+<option><![CDATA[Flower seeds]]></option>
+<option><![CDATA[Watering can]]></option>
+<option><![CDATA[Wrench]]></option>
+
+<!-- feedback -->
+<feedback><![CDATA[That's right. Well done.]]></feedback>
+<feedback><![CDATA[Oh no! You can't use this here! Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[This is the correct area.]]></feedback>
+
+<num><![CDATA[1]]></num>
+<num><![CDATA[2]]></num>
+<num><![CDATA[3]]></num>
+<num><![CDATA[4]]></num>
+<num><![CDATA[5]]></num>
+
+
+
+<text><![CDATA[<B>Broom:</B> for clearing the litter. All the litter will be placed in the bin.]]></text>
+<text><![CDATA[<B>Lawnmower:</B> for trimming the wild grass. Grass to be mowed and neatened up.]]></text>
+<text><![CDATA[<B>Shovel:</B> to dig up the flower bed. It would be ready for new seeds to be planted.]]></text>
+<text><![CDATA[<B>Flower seeds:</B> to be sown in the flower bed. New flower to be shown growing and blooming.]]></text>
+<!-- <text><![CDATA[<B>Watering can:</B> over the felled trees, the flower bed and the grass. All three become green and colourful again.]]></text> -->
+<text><![CDATA[<B>Watering can:</B> over the flower bed and the grass. All become green and colorful again.]]></text>
+<text><![CDATA[<B>Wrench:</B> to fix the swing (swing joins again).]]></text>
+<text><![CDATA[<B>Broom:</B> for cleaning the path. The path will be cleared for walking or jogging.]]></text>
+
+</data>
+</framexml>

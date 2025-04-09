@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<!-- <text><![CDATA[<B>Rafay's family</B>]]></text> -->
+<text><![CDATA[<B>Activity 1</B>]]></text>
+<text><![CDATA[Help Rafay clean his room. Listen to the instructions. Click on the objects lying around and drag them to the correct places.]]></text>
+
+<question1><![CDATA[Put the shirt in the cupboard.]]></question1>
+<question1><![CDATA[Put the pillow on the bed.]]></question1>
+<question1><![CDATA[Put the toy car in the toy chest.]]></question1>
+<question1><![CDATA[Put the pieces of paper in the bin.]]></question1>
+<question1><![CDATA[Put the jeans in the drawer.]]></question1>
+
+<question1><![CDATA[Put the shoes in the cupboard.]]></question1>
+<question1><![CDATA[Close the cupboard.]]></question1>
+
+<question1><![CDATA[Put the pencils in the holder.]]></question1>
+<question1><![CDATA[Fold the blanket neatly.]]></question1>
+<question1><![CDATA[Pick up the chair and put it in its right place.]]></question1>
+<!-- <question1><![CDATA[Pick up the chair.]]></question1> -->
+<!-- feedback -->
+<feedback><![CDATA[Thanks!]]></feedback>
+<feedback><![CDATA[Oh no! That's not the right place!]]></feedback>
+<feedback><![CDATA[Thank you!<BR>You are a great help!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[This is the right place.]]></feedback>
+<feedback><![CDATA[You can do better!]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+
+
+</data>
+</framexml>

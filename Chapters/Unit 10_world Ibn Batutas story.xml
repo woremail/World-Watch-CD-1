@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<b>Our world – Ibn Batuta's story</b>]]></text>
+<text><![CDATA[Join the dots correctly to trace out Ibn Batuta's travel route.<BR>Click on the dot to see the line appear. Start from the red dot.]]></text>
+
+
+<!-- feedback -->
+<feedback><![CDATA[Yes, Ibn Batuta did visit this place. Where did he go from here?]]></feedback>
+<feedback><![CDATA[Oh no! He didn't go there next.. Try again. ]]></feedback>
+<feedback><![CDATA[Oops! That wasn't his next stop either.]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+<feedback><![CDATA[That's correct. This place was visited by Ib. Where else did<br>he go?]]></feedback>
+<feedback><![CDATA[You can do better!]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Where did he go from here?]]></feedback>
+<feedback><![CDATA[That's correct. This place was visited by Ib.]]></feedback>
+<feedback><![CDATA[Where else did he go?]]></feedback>
+
+</data>
+</framexml>

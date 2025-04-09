@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<text><![CDATA[<B>Shopping</B>]]></text>
+<text><![CDATA[Look at this item. Which shop can you buy it from?<BR>Click and drag the item to the correct shop.]]></text>
+
+<text><![CDATA[bakery]]></text>
+<text><![CDATA[clothes shop]]></text>
+<text><![CDATA[vegetable shop]]></text>
+<text><![CDATA[stationery shop]]></text>
+<text><![CDATA[hardware shop]]></text>
+
+<text><![CDATA[chemist]]></text>
+
+<drag><![CDATA[cake]]></drag>
+<drag><![CDATA[bread]]></drag>
+<drag><![CDATA[shirt]]></drag>
+<drag><![CDATA[skirt]]></drag>
+<drag><![CDATA[carrot]]></drag>
+<drag><![CDATA[cucumber]]></drag>
+<drag><![CDATA[pencil]]></drag>
+<drag><![CDATA[school bag]]></drag>
+<drag><![CDATA[screwdriver]]></drag>
+<drag><![CDATA[hammer]]></drag>
+<drag><![CDATA[band aid strip]]></drag>
+<drag><![CDATA[medicine bottle]]></drag>
+
+<!-- feedback -->
+
+<feedback><![CDATA[That's right. Well done.]]></feedback>
+<feedback><![CDATA[Oh no! That's incorrect.<BR>Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+
+<num><![CDATA[1]]></num>
+<num><![CDATA[2]]></num>
+<num><![CDATA[3]]></num>
+<num><![CDATA[4]]></num>
+<num><![CDATA[5]]></num>
+<num><![CDATA[6]]></num>
+<num><![CDATA[7]]></num>
+<num><![CDATA[8]]></num>
+<num><![CDATA[9]]></num>
+<num><![CDATA[10]]></num>
+<num><![CDATA[11]]></num>
+<num><![CDATA[12]]></num>
+
+
+</data>
+</framexml>

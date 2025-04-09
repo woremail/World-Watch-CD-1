@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Chapters -->
+<framexml>
+<data>
+<unit>
+	<Num><![CDATA[01]]></Num>
+	<name><![CDATA[Unit 1]]></name>
+	<chapterName><![CDATA[Unit 1  Rafay family]]></chapterName>
+	<main><![CDATA[chapters/Unit 1 Rafay family.swf]]></main>	
+</unit>
+
+<unit>
+	<Num><![CDATA[02]]></Num>
+	<name><![CDATA[Unit 2]]></name>
+	<chapterName><![CDATA[Unit 2  Rafay's house]]></chapterName>
+	<main><![CDATA[Chapters/Unit 2 Rafay house.swf]]></main>	
+</unit>
+<unit>
+	<Num><![CDATA[04]]></Num>
+	<name><![CDATA[Unit 4]]></name>
+	<chapterName><![CDATA[Unit 4  At the seaside]]></chapterName>
+	<main><![CDATA[Chapters/Unit 4 At the seaside.swf]]></main>	
+</unit>
+
+<unit>
+	<Num><![CDATA[06]]></Num>
+	<name><![CDATA[Unit 6]]></name>
+	<chapterName><![CDATA[Unit 6  Shopping]]></chapterName>
+	<main><![CDATA[Chapters/Unit 6 Shopping.swf]]></main>	
+</unit>
+
+<unit>
+	<Num><![CDATA[09]]></Num>
+	<name><![CDATA[Unit 9]]></name>
+	<chapterName><![CDATA[Unit 9  Workers]]></chapterName>
+	<main><![CDATA[Chapters/Unit 9 Workers.swf]]></main>
+</unit>
+
+<unit>
+	<Num><![CDATA[10]]></Num>
+	<name><![CDATA[Unit 10]]></name>
+	<chapterName><![CDATA[Unit 10  World Ibn Batutas story]]></chapterName>
+	<main><![CDATA[Chapters/Unit 10_world Ibn Batutas story.swf]]></main>
+</unit>
+
+<unit>
+	<Num><![CDATA[11]]></Num>
+	<name><![CDATA[Unit 11]]></name>
+	<chapterName><![CDATA[Unit 11  Our Environment]]></chapterName>
+	<main><![CDATA[Chapters/Unit 11 Our Environment.swf]]></main>
+</unit>
+
+<mainFrame>
+	<!-- <text><![CDATA[Unit 1 : Rafay family]]></text> -->
+	<text><![CDATA[Unit 2: Rafay's house]]></text>
+	<text><![CDATA[Unit 2: Rafay's house]]></text>
+	<text><![CDATA[Unit 4: At the seaside]]></text>
+	<text><![CDATA[Unit 6: Shopping]]></text>
+	<text><![CDATA[Unit 9: Workers]]></text>
+	<text><![CDATA[Unit 10 Our world: Ibn Batuta's story]]></text>
+	<text><![CDATA[Unit 11 Our environment: Woolly's story]]></text>
+</mainFrame>
+
+</data>
+</framexml>

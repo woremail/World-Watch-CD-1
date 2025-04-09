@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<framexml>
+<data>
+
+<!-- 1M2 -->
+<!-- <text><![CDATA[<B>Rafay's house</B>]]></text> -->
+<text><![CDATA[<B>Activity 2</B>]]></text>
+<text><![CDATA[Zain is hiding in this room. Which room is this?]]></text>
+
+<Q1><![CDATA[Zain is hiding in this room. Which room is this?]]></Q1>
+
+<Optn1><![CDATA[bathroom]]></Optn1>
+<Optn1><![CDATA[bedroom]]></Optn1>
+<Optn1><![CDATA[kitchen]]></Optn1>
+<Optn1><![CDATA[lounge]]></Optn1>
+
+<!-- feedback -->
+<feedback><![CDATA[That's correct. Well done.]]></feedback>
+<feedback><![CDATA[Oh no! That's not correct. Try again!]]></feedback>
+<feedback><![CDATA[Oops! That's wrong too.]]></feedback>
+<feedback><![CDATA[You can do better.]]></feedback>
+<feedback><![CDATA[Good job!]]></feedback>
+<feedback><![CDATA[You are superb!]]></feedback>
+<feedback><![CDATA[Score:]]></feedback>
+<feedback><![CDATA[Here is the correct answer.]]></feedback>
+
+<num><![CDATA[1]]></num>
+<num><![CDATA[2]]></num>
+<num><![CDATA[3]]></num>
+<num><![CDATA[4]]></num>
+
+
+</data>
+</framexml>
